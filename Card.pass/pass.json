@@ -1,0 +1,28 @@
+{
+  "formatVersion" : 1,
+  "passTypeIdentifier" : "pass.com.loomworks.lynelindberg.passbook",
+  "serialNumber" : "E5982H-I2",
+  "teamIdentifier" : "L4DLWQ464C",
+  "webServiceURL" : "https://example.com/passes/",
+  "authenticationToken" : "vxwxd7J8AlNNFPS8k0a0FfUFtq0ewzFdc1Z0",
+  "barcode" : {
+    "message" : "123456789",
+    "format" : "PKBarcodeFormatPDF417",
+    "messageEncoding" : "iso-8859-1"
+  },
+  "organizationName" : "LOOM Works",
+  "description" : "LOOM Works generic pass",
+  "logoText" : "LACE",
+  "foregroundColor" : "rgb(255, 255, 255)",
+  "backgroundColor" : "rgb(206, 140, 53)",
+  "coupon" : {
+    "primaryFields" : [
+      {
+        "key" : "offer",
+        "value" : "Lyne & Lindberg",
+        "label" : "Membership Pass"
+        
+      }
+    ] 
+  }
+}
